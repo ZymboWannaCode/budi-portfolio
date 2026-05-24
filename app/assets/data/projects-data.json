@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "HR Recruitment Digitalization",
+    "description": "Recruitment portal website-based app including the candidate selection process, and provides a dashboard feature to integrate the candidate recruitment process.",
+    "image": "",
+    "techStack": ["Devexpress", ".NET", "SQL Server"],
+    "role": "Project Leader, Full Stack Developer",
+    "demo": "",
+    "category": "Web App",
+    "date": "May 2025"
+  },
+  {
+    "id": 2,
+    "name": "Innovation Tracker",
+    "description": "An Innovation Competition Management website",
+    "image": "",
+    "techStack": ["React.js", ".NET", "SQL Server"],
+    "role": "Project Leader, Full Stack Developer",
+    "demo": "https://inotech.polytechnic.astra.ac.id/",
+    "category": "Web App",
+    "date": "Mar 2025"
+  },
+  {
+    "id": 3,
+    "name": "Confirm Scrap Out Summary App Migration",
+    "description": "A website-based application migration using the AHMAS (AHM) framework, which focuses on the Scrap Out goods transaction approval feature.",
+    "image": "",
+    "techStack": ["AHMAS", "Java Script", "Java Spring", "Oracle SQL"],
+    "role": "Full Stack Developer",
+    "demo": "",
+    "category": "Web App",
+    "date": "Sep 2024"
+  },
+  {
+    "id": 4,
+    "name": "Badan Penjamin Mutu Astra Polytechnic Website",
+    "description": "A profile website that provides document recording and a summary dashboard to support the business processes of the Astra Polytechnic Quality Assurance Agency.",
+    "image": "",
+    "techStack": ["React.js", ".NET", "SQL Server"],
+    "role": "Full Stack Developer",
+    "demo": "https://bpm.polytechnic.astra.ac.id/",
+    "category": "Web App",
+    "date": "Sep 2024"
+  }
+]

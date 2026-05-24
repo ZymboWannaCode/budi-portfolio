@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Foodie Express",
+    "description": "A modern food delivery platform where users can browse restaurants, order meals, and track delivery in real-time.",
+    "image": "https://picsum.photos/400/400?random=28",
+    "techStack": ["Next.js", "TypeScript", "Tailwind", "Node.js", "Express", "MongoDB"],
+    "role": "Full Stack Developer",
+    "github": "https://github.com/username/foodie-express",
+    "demo": "https://foodie-express-demo.vercel.app",
+    "category": "Web App",
+    "year": 2025
+  },
+  {
+    "id": 2,
+    "title": "SportHub",
+    "description": "A centralized platform for booking and managing sports fields with real-time scheduling, payments, and player community features.",
+    "image": "https://picsum.photos/400/400?random=6",
+    "techStack": ["Next.js", "Prisma", "PostgreSQL", "Tailwind", "Stripe API"],
+    "role": "Frontend Lead",
+    "github": "https://github.com/username/sporthub",
+    "demo": "https://sporthub.vercel.app",
+    "category": "Startup Product",
+    "year": 2024
+  },
+  {
+    "id": 3,
+    "title": "RED Art Gallery",
+    "description": "A virtual art gallery showcasing red-themed artworks, built with immersive design and smooth image transitions.",
+    "image": "https://picsum.photos/400/400?random=38",
+    "techStack": ["Next.js", "Framer Motion", "GSAP", "SCSS"],
+    "role": "Frontend Developer",
+    "github": "https://github.com/username/red-art-gallery",
+    "demo": "https://red-art-gallery.vercel.app",
+    "category": "Creative Website",
+    "year": 2023
+  },
+  {
+    "id": 4,
+    "title": "HR Digital Recruitment",
+    "description": "An HR recruitment system for managing job postings, candidate applications, and digital interviews with analytics dashboards.",
+    "image": "https://picsum.photos/400/400?random=29",
+    "techStack": ["Next.js", "React Query", "NestJS", "MySQL", "Docker"],
+    "role": "Full Stack Developer",
+    "github": "https://github.com/username/hr-digital-recruitment",
+    "demo": "https://hr-digital-recruitment.vercel.app",
+    "category": "Business App",
+    "year": 2025
+  },
+  {
+    "id": 5,
+    "title": "TravelMate",
+    "description": "A travel planner web app that helps users organize trips, track expenses, and discover trending destinations.",
+    "image": "https://picsum.photos/400/400?random=73",
+    "techStack": ["Next.js", "React Context API", "Firebase", "Tailwind"],
+    "role": "Frontend Developer",
+    "github": "https://github.com/username/travelmate",
+    "demo": "https://travelmate.vercel.app",
+    "category": "Web App",
+    "year": 2022
+  },
+  {
+    "id": 6,
+    "title": "DevBoard Dashboard",
+    "description": "A developer productivity dashboard displaying GitHub stats, commits, and project insights with beautiful charts.",
+    "image": "https://picsum.photos/400/400?random=83",
+    "techStack": ["Next.js", "Recharts", "NextAuth.js", "Tailwind", "Vercel Analytics"],
+    "role": "Frontend Engineer",
+    "github": "https://github.com/username/devboard",
+    "demo": "https://devboard.vercel.app",
+    "category": "Dashboard",
+    "year": 2025
+  }
+]
